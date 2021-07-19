@@ -11,7 +11,7 @@ This is an in-depth full-stack Blog type project application using Node.js, Expr
 Home page:
 ![Home](https://user-images.githubusercontent.com/78247889/126181825-213295fd-16e7-4fe6-94a8-cf5132238b71.png)
 About page:
-
+![About](https://user-images.githubusercontent.com/78247889/126182060-227bb52d-597e-44c2-a6e4-e68f2b9fd3f0.png)
 Clubs page:
 ![Clubsss](https://user-images.githubusercontent.com/78247889/126180061-9a0fd81d-f948-4076-a8cb-329e3e22300a.png)
 
