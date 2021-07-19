@@ -7,7 +7,12 @@ This is an in-depth full-stack Blog type project application using Node.js, Expr
 -Built frontend to work with the API.\
 -Tested Get and Post Request using MongoDB.\
 
-## Screenshot
+## Screenshots:
+Home page:
+![Home](https://user-images.githubusercontent.com/78247889/126181825-213295fd-16e7-4fe6-94a8-cf5132238b71.png)
+About page:
+
+Clubs page:
 ![Clubsss](https://user-images.githubusercontent.com/78247889/126180061-9a0fd81d-f948-4076-a8cb-329e3e22300a.png)
 
 ## Available Scripts
