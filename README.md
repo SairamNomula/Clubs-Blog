@@ -1,6 +1,6 @@
 # Clubs-Blog
 
-This is an in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+.\
+This is an in-depth full-stack Blog type project application using Node.js, Express, React, and MongoDB along with ES6+.\
 -Built an extensive backend API with Node.js & Express.\
 -Extensive API testing with Postman.\
 -Integrated React with our backend in an elegant way, creating a great workflow.\
