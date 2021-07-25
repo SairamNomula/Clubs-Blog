@@ -5,7 +5,7 @@ This is an in-depth full-stack Blog type project application using Node.js, Expr
 -Extensive API testing with Postman.\
 -Integrated React with our backend in an elegant way, creating a great workflow.\
 -Built frontend to work with the API.\
--Tested Get and Post Request using MongoDB.\
+-Tested Get and Post Request using MongoDB.
 
 ## Screenshots:
 Home page:
